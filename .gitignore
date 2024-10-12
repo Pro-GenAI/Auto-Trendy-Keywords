@@ -1,0 +1,4 @@
+# data_files/
+# hidden/
+__pycache__/
+.vscode*
