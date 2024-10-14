@@ -2,7 +2,7 @@
 
 # <img src="./files/logo_small.jpg" align="left" width="250" alt="AutoTrendyKeywords" /> AutoTrendyKeywords
 
-## Real-time AI-driven SEO using LLMs
+## Real-time AI-driven trend-based SEO using LLMs
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.<arxiv_number>-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2410.<arxiv_number>)
