@@ -4,8 +4,8 @@
 
 ## Real-time AI-driven trend-based SEO using LLMs
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
-[![arXiv](https://img.shields.io/badge/arXiv-2410.<arxiv_number>-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2410.<arxiv_number>)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg?style=for-the-badge)](./LICENSE.md)
+[![Preprint](https://img.shields.io/badge/Preprint-202410.1164-yellow?style=for-the-badge)](https://www.preprints.org/manuscript/202410.1164)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praneeth.v/<link here>) -->
 
@@ -32,22 +32,22 @@ Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 
 
 ## :page_facing_up: Research Paper
-A **preprint** of the research paper is available on [arXiv](https://arxiv.org/abs/2410.<arxiv_number>) <br>
+A **preprint** of the research paper is available on [preprints.org](https://www.preprints.org/manuscript/202410.1164) <br>
 
 ## :bookmark_tabs: Citation
 To use my paper for reference, please cite it as below:
 ```bibtex
-@misc{vadlapati2024AutoTrendyKeywords,
-	title={{AutoTrendyKeywords: real-time AI-driven SEO keyword generation using LLMs}},
-	author={{Praneeth Vadlapati}},
-	year={2024},
-	eprint={2410.<arxiv_number>},
-	archivePrefix={arXiv},
-	primaryClass={cs.CL},
-	url={https://arxiv.org/abs/2410.<arxiv_number>}
+@article{vadlapati2024autotrendykeywords,
+	title = {AutoTrendyKeywords: Real-Time AI-Driven Trend-Based SEO Using LLMs},
+	author = {Praneeth Vadlapati},
+	year = {2024},
+	month = {October},
+	publisher = {Preprints},
+	journal = {Preprints},
+	doi = {10.20944/preprints202410.1164.v1},
+	url = {https://www.preprints.org/manuscript/202410.1164},
 }
 ```
-<!-- doi={10.48550/arXiv.2410.<arxiv_number>}, -->
 
 
 ## :rocket: Quick Start
