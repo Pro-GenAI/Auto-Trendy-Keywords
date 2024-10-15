@@ -14,7 +14,7 @@
 
 <!-- Workflow images -->
 **AutoTrendyKeywords process**: <br>
-<img src="./files/ATK_flow.jpg" alt="ATK flow" width="800">
+<img src="./files/ATK_flow.jpg" alt="ATK flow" width="600">
 
 ### Why AutoTrendyKeywords:
 - Keywords are essential for SEO to optimize the content for search engines.
@@ -24,8 +24,11 @@
 - The project uses LLMs to generate real-time SEO keywords based on trends, saving time and resources.
 - The project embeds the keywords in the HTML code for better SEO optimization.
 
+An experiment was conducted by writing a blog on my last project [LML-DAP](https://github.com/Pro-GenAI/LML-DAP).
+Results below shows the keywords that were trending.
+
 **Trends of the generated keywords**: <br>
-<img src="./files/Result.jpg" alt="Result" width="800"> <br>
+<img src="./files/Result.jpg" alt="Result" width="600"> <br>
 
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
