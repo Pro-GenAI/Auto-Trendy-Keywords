@@ -4,7 +4,7 @@
 
 ## Real-time AI-driven trend-based SEO using LLMs
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg?style=for-the-badge)](./LICENSE.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
 [![DOI](https://img.shields.io/badge/DOI-10.34218/IJCET_16_03_018-darkgreen?style=for-the-badge)](https://doi.org/10.34218/IJCET_16_03_018)
 [![Preprint](https://img.shields.io/badge/Preprint-202410.1164-fcd400?style=for-the-badge)](https://www.preprints.org/manuscript/202410.1164)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
